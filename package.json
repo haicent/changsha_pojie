@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "get-source": "^2.0.12",
+    "minimist": "^1.2.6",
+    "playwright": "^1.21.0",
+    "readline-sync": "^1.4.10"
+  }
+}
